@@ -13,4 +13,8 @@ Files:
 # Data wrangling and plot:
 Proccess the data in a tidy way for filter transform and plot the data. The [animated plot](animated_plot.mpeg) was made with ggplot and gganimate.
 
-![animated_plot](animated_plot.mpeg)
+
+
+
+https://user-images.githubusercontent.com/78738299/188320264-77bdff6f-d2b6-430d-a132-c19896034ec6.mp4
+
