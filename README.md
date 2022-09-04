@@ -11,7 +11,7 @@ Files:
 - [getting_logos.r](R/getting_logos.r)
 
 # Data wrangling and plot:
-Proccess the data in a tidy way for filter transform and plot the data. The [animated plot](animated_plot.mpeg) was made with ggplot and gganimate.
+Proccess the data in a tidy way for filter transform and plot the data. The [animated plot](animated_plot.mp4) was made with ggplot and gganimate.
 
 
 
