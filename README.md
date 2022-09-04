@@ -6,9 +6,9 @@
 Get the results from [worldfootball](worldfootball.net) (the code could be used for download any league in an easy way) and the logos from [escudosfc](https://www.escudosfc.com.br/bras2022.htm).
 
 Files:
-- [download_results.r](download_results.r)
-- [utils.r](utils.r)
-- [getting_logos.r](getting_logos.r)
+- [download_results.r](R/download_results.r)
+- [utils.r](R/utils.r)
+- [getting_logos.r](R/getting_logos.r)
 
 # Data wrangling and plot:
 Proccess the data in a tidy way for filter transform and plot the data. The [animated plot](animated_plot.mpeg) was made with ggplot and gganimate.
